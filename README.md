@@ -1,3 +1,4 @@
+
 # Quantative_Research_Methods_WS
 
 ---
@@ -14,3 +15,4 @@ Preliminary research problem:
 Possible research question:
 First tentative hypothesis:
 Possible data basis:
+---
